@@ -14,3 +14,4 @@ C:\Users\alper\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.d
 C:\Users\alper\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\alper\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 C:\Users\alper\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
